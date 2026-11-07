@@ -1,4 +1,4 @@
-# overture-road-route-search
+# overture-route-search-api
 
 [Overture Maps](https://overturemaps.org/) の道路データ（transportation）から全球の道路ネットワークを作り、
 車の**到達圏**と**経路探索**をローカルで動かして検証するリポジトリ。

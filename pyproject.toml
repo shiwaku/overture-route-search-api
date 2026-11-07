@@ -1,5 +1,5 @@
 [project]
-name = "overture-road-route-search"
+name = "overture-route-search-api"
 version = "0.1.0"
 requires-python = ">=3.12"
 dependencies = [

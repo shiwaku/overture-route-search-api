@@ -36,7 +36,7 @@ Overture Maps の道路データ（transportation の `segment` / `connector`）
 | 一方通行 | 考慮する（KSJ 版には無かった。`access_restrictions` の heading 付き denied） |
 | コードの置き場所 | このリポジトリ。ksj-route-search-api の api / web は参照して移植する（ksj-route-search-api 側は変えない） |
 | 検証の環境 | このマシン（RAM 64 GB・空きディスク 約 600 GB） |
-| 管理 | git。GitHub の shiwaku/overture-road-route-search（MIT） |
+| 管理 | git。GitHub の shiwaku/overture-route-search-api（MIT） |
 
 ## 段階
 
