@@ -3,6 +3,8 @@
 全球の到達圏・経路探索を、`shiwaku@mierune.co.jp` だけが使える形で公開する（issue #9）。
 `../ksj-route-search-api` の `deploy/cloudflare` と同じ作りで、違いは API を大陸ごとに 3 台に分けたこと。
 
+リポジトリは `overture-route-search-api` に名前を変えたが、Worker 名・コンテナイメージ名・R2 のキーは旧名の `overture-road-route-search` のまま（変えると URL や Access の設定、タイルの置き直しが要るため）。
+
 | 部分 | 置き場所 |
 |---|---|
 | 画面（SvelteKit の静的出力） | Workers の Static Assets |

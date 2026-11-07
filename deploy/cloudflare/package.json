@@ -1,5 +1,5 @@
 {
-  "name": "overture-road-route-search-deploy",
+  "name": "overture-route-search-api-deploy",
   "private": true,
   "scripts": {
     "build:web": "npm --prefix ../../web run build",
